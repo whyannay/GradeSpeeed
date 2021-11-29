@@ -5,6 +5,7 @@ Full Names: Anna Fredrickson, Luis Banda, Brandon Burks, Haven Kotara, Andrew Mc
 
 Description: GradeSpeeed is an application that works as a gradebook for teachers to login and keep track of a student's name, id, assignment grades, and grade averages. It can then be output to a report card for easier viewing along with all of the student's information.    
 Known Bugs: After inputting grades to calculator, alert message asks to input student ID but will take anything even if not correct. 
+            Final, average, and student name do not clear in the modify scene after clicking generate. 
 
 Login Info: 
 Username: admin     
